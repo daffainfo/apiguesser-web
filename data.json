@@ -1,0 +1,26 @@
+[
+  {
+    "name": "AdotpAPet API Key",
+    "url": "https://github.com/daffainfo/all-about-apikey/blob/main/Animals/AdoptAPet.md",
+    "description": "Resource to help get pets adopted",
+    "regex": "^([a-z0-9]{33})$"
+  },
+  {
+    "name": "Petfinder API Key",
+    "url": "https://github.com/daffainfo/all-about-apikey/blob/main/Animals/Petfinder.md",
+    "description": "Petfinder is dedicated to helping pets find homes, another resource to get pets adopted",
+    "regex": "^([a-zA-Z0-9]{50})$"
+  },
+  {
+    "name": "Clearbit API Key",
+    "url": "https://github.com/daffainfo/all-about-apikey/blob/main/Business/Clearbit.md",
+    "description": "Search for company logos and embed them in your projects",
+    "regex": "^(sk_[a-z0-9]{32})$"
+  },
+  {
+    "name": "ImprovMX API Key",
+    "url": "https://github.com/daffainfo/all-about-apikey/blob/main/Business/ImprovMX.md",
+    "description": "API for free email forwarding service",
+    "regex": "^(sk_[a-z0-9]{32})$"
+  }
+]

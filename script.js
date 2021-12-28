@@ -11,12 +11,11 @@ $(document).ready(function () {
             let searchField = $("#search").val();
             $.getJSON("data.json", function (data) {
                 $.each(data, function (key, value) {
-                    // console.log(array_count.length)
                     let regex_result = new RegExp(value.regex, "g");
                     if (searchField.match(regex_result)) {
                         count++;
                         $("#result").append(`
-                            <div class="col-sm-6">
+                            <div class="col-sm-6 col-md-6">
                                 <div class="card mt-4">
                                     <div class="card-body">
                                         <h5 class="card-title">` + value.name + `</h5>

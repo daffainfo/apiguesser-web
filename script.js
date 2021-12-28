@@ -25,6 +25,8 @@ $(document).ready(function () {
                                 </div>
                             </div>`
                         );
+                    } else {
+                        $("#count").html("");
                     }
                     $("#count").text(count + " results of " + searchField);
                 });

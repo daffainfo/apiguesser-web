@@ -346,5 +346,71 @@
     "url": "https://github.com/daffainfo/all-about-apikey/blob/main/Continous%20Integration/Bitrise.md",
     "description": "Build tool and processes integrations to create efficient development pipelines",
     "regex": "^([a-zA-Z0-9-_]{86})$"
+  },
+  {
+    "name": "Alchemy API Key",
+    "url": "https://github.com/daffainfo/all-about-apikey/blob/main/Cryptocurrency/Alchemy.md",
+    "description": "Ethereum Node-as-a-Service Provider",
+    "regex": "^([a-zA-Z0-9-]{32})$"
+  },
+  {
+    "name": "Binance API Key",
+    "url": "https://github.com/daffainfo/all-about-apikey/blob/main/Cryptocurrency/Binance.md",
+    "description": "Exchange for Trading Cryptocurrencies based in China",
+    "regex": "^([a-zA-Z0-9]{64})$"
+  },
+  {
+    "name": "BitcoinAverage API Key",
+    "url": "https://github.com/daffainfo/all-about-apikey/blob/main/Cryptocurrency/BitcoinAverage.md",
+    "description": "Digital Asset Price Data for the blockchain industry",
+    "regex": "^([a-zA-Z0-9]{43})$"
+  },
+  {
+    "name": "Block API Key",
+    "url": "https://github.com/daffainfo/all-about-apikey/blob/main/Cryptocurrency/Block.md",
+    "description": "Bitcoin Payment, Wallet & Transaction Data",
+    "regex": "^([a-z0-9]{4}-[a-z0-9]{4}-[a-z0-9]{4}-[a-z0-9]{4})$"
+  },
+  {
+    "name": "Blockchain API Key",
+    "url": "https://github.com/daffainfo/all-about-apikey/blob/main/Cryptocurrency/Blockchain.md",
+    "description": "Bitcoin Payment, Wallet & Transaction Data",
+    "regex": "^([a-f0-9]{8}-[a-f0-9]{4}-[a-f0-9]{4}-[a-f0-9]{4}-[0-9a-f]{12})$"
+  },
+  {
+    "name": "Blockfrost API Key (Mainnet)",
+    "url": "https://github.com/daffainfo/all-about-apikey/blob/main/Cryptocurrency/Blockfrost.md",
+    "description": "Interaction with the Cardano mainnet and several testnets",
+    "regex": "^(mainnet[a-zA-Z0-9]{32})$"
+  },
+  {
+    "name": "Blockfrost API Key (Testnet)",
+    "url": "https://github.com/daffainfo/all-about-apikey/blob/main/Cryptocurrency/Blockfrost.md",
+    "description": "Interaction with the Cardano mainnet and several testnets",
+    "regex": "^(testnet[a-zA-Z0-9]{32})$"
+  },
+  {
+    "name": "Blockfrost API Key (IPFS)",
+    "url": "https://github.com/daffainfo/all-about-apikey/blob/main/Cryptocurrency/Blockfrost.md",
+    "description": "Interaction with the Cardano mainnet and several testnets",
+    "regex": "^(ipfs[a-zA-Z0-9]{32})$"
+  },
+  {
+    "name": "Brave New Coin API Key",
+    "url": "https://github.com/daffainfo/all-about-apikey/blob/main/Cryptocurrency/Brave%20New%20Coin.md",
+    "description": "Real-time and historic crypto data from more than 200+ exchanges",
+    "regex": "^([a-z0-9]{50})$"
+  },
+  {
+    "name": "CoinAPI API Key",
+    "url": "https://github.com/daffainfo/all-about-apikey/blob/main/Cryptocurrency/CoinAPI.md",
+    "description": "All Currency Exchanges integrate under a single api",
+    "regex": "^([A-Z0-9]{8}-[A-Z0-9]{4}-[A-Z0-9]{4}-[A-Z0-9]{4}-[A-Z0-9]{12})$"
+  },
+  {
+    "name": "Coinlayer API Key",
+    "url": "https://github.com/daffainfo/all-about-apikey/blob/main/Cryptocurrency/Coinlayer.md",
+    "description": "Real-time Crypto Currency Exchange Rates",
+    "regex": "^([a-z0-9]{32})$"
   }
 ]

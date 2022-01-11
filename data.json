@@ -412,5 +412,11 @@
     "url": "https://github.com/daffainfo/all-about-apikey/blob/main/Cryptocurrency/Coinlayer.md",
     "description": "Real-time Crypto Currency Exchange Rates",
     "regex": "^([a-z0-9]{32})$"
+  },
+  {
+    "name": "Coinlib API Key",
+    "url": "https://github.com/daffainfo/all-about-apikey/blob/main/Cryptocurrency/Coinlib.md",
+    "description": "Crypto Currency Prices",
+    "regex": "^([a-z0-9]{16})$"
   }
 ]

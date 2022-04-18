@@ -418,5 +418,11 @@
     "url": "https://github.com/daffainfo/all-about-apikey/blob/main/Cryptocurrency/Coinlib.md",
     "description": "Crypto Currency Prices",
     "regex": "^([a-z0-9]{16})$"
+  },
+  {
+    "name": "CoinMarketCap API Key",
+    "url": "https://github.com/daffainfo/all-about-apikey/blob/main/Cryptocurrency/CoinMarketCap.md",
+    "description": "Cryptocurrencies Prices",
+    "regex": "^([a-f0-9]{8}-[a-f0-9]{4}-[a-f0-9]{4}-[a-f0-9]{4}-[a-f0-9]{12})$"
   }
 ]

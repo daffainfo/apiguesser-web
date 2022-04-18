@@ -424,5 +424,11 @@
     "url": "https://github.com/daffainfo/all-about-apikey/blob/main/Cryptocurrency/CoinMarketCap.md",
     "description": "Cryptocurrencies Prices",
     "regex": "^([a-f0-9]{8}-[a-f0-9]{4}-[a-f0-9]{4}-[a-f0-9]{4}-[a-f0-9]{12})$"
+  },
+  {
+    "name": "Coinranking API Key",
+    "url": "https://github.com/daffainfo/all-about-apikey/blob/main/Cryptocurrency/Coinranking.md",
+    "description": "Live Cryptocurrency data",
+    "regex": "^(coinranking[a-z0-9]{48})$"
   }
 ]

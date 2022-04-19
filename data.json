@@ -430,5 +430,11 @@
     "url": "https://github.com/daffainfo/all-about-apikey/blob/main/Cryptocurrency/Coinranking.md",
     "description": "Live Cryptocurrency data",
     "regex": "^(coinranking[a-z0-9]{48})$"
+  },
+  {
+    "name": "Hirak Exchange Rates API Key",
+    "url": "https://github.com/daffainfo/all-about-apikey/blob/main/Cryptocurrency/Hirak%20Exchange%20Rates.md",
+    "description": "Exchange rates between 162 currency & 300 crypto currency update each 5 min, accurate, no limits",
+    "regex": "^([a-z0-9]{32})$"
   }
 ]

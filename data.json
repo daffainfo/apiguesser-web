@@ -436,5 +436,221 @@
     "url": "https://github.com/daffainfo/all-about-apikey/blob/main/Cryptocurrency/Hirak%20Exchange%20Rates.md",
     "description": "Exchange rates between 162 currency & 300 crypto currency update each 5 min, accurate, no limits",
     "regex": "^([a-z0-9]{32})$"
+  },
+  {
+    "name": "1Forge API Key",
+    "url": "https://github.com/daffainfo/all-about-apikey/blob/main/Currency%20Exchange/1Forge.md",
+    "description": "Forex currency market data",
+    "regex": "^([a-zA-Z0-9]{32})$"
+  },
+  {
+    "name": "Amdoren API Key",
+    "url": "https://github.com/daffainfo/all-about-apikey/blob/main/Currency%20Exchange/Amdoren.md",
+    "description": "Free currency API with over 150 currencies",
+    "regex": "^([a-zA-Z0-9]{30})$"
+  },
+  {
+    "name": "CurrencyFreaks API Key",
+    "url": "https://github.com/daffainfo/all-about-apikey/blob/main/Currency%20Exchange/CurrencyFreaks.md",
+    "description": "Provides current and historical currency exchange rates with free plan 1K requests/month",
+    "regex": "^([a-z0-9]{32})$"
+  },
+  {
+    "name": "CurrencyScoop API Key",
+    "url": "https://github.com/daffainfo/all-about-apikey/blob/main/Currency%20Exchange/CurrencyScoop.md",
+    "description": "Real-time and historical currency rates JSON API",
+    "regex": "^([a-z0-9]{32})$"
+  },
+  {
+    "name": "Currencylayer API Key",
+    "url": "https://github.com/daffainfo/all-about-apikey/blob/main/Currency%20Exchange/Currencylayer.md",
+    "description": "Exchange rates and currency conversion",
+    "regex": "^([a-z0-9]{32})$"
+  },
+  {
+    "name": "ExchangeRate-API API Key",
+    "url": "https://github.com/daffainfo/all-about-apikey/blob/main/Currency%20Exchange/ExchangeRate-API.md",
+    "description": "Free currency conversion",
+    "regex": "^([a-z0-9]{24})$"
+  },
+  {
+    "name": "Lob API Key",
+    "url": "https://github.com/daffainfo/all-about-apikey/blob/main/Data%20Validation/Lob.md",
+    "description": "US Address Verification",
+    "regex": "^(test_[a-z0-9]{35})$"
+  },
+  {
+    "name": "ApiFlash API Key",
+    "url": "https://github.com/daffainfo/all-about-apikey/blob/main/Development/ApiFlash.md",
+    "description": "Chrome based screenshot API for developers",
+    "regex": "^([a-z0-9]{32})$"
+  },
+  {
+    "name": "Blitapp API Key",
+    "url": "https://github.com/daffainfo/all-about-apikey/blob/main/Development/Blitapp.md",
+    "description": "Schedule screenshots of web pages and sync them to your cloud",
+    "regex": "^([a-zA-Z0-9-_.~]{35,48})$"
+  },
+  {
+    "name": "Browshot API Key",
+    "url": "https://github.com/daffainfo/all-about-apikey/blob/main/Development/Browshot.md",
+    "description": "Easily make screenshots of web pages in any screen size, as any device",
+    "regex": "^([a-zA-Z0-9]{27,30})$"
+  },
+  {
+    "name": "Gorest API Key",
+    "url": "https://github.com/daffainfo/all-about-apikey/blob/main/Development/Gorest.md",
+    "description": "Online REST API for Testing and Prototyping",
+    "regex": "^([a-z0-9]{65})$"
+  },
+  {
+    "name": "Hunter API Key",
+    "url": "https://github.com/daffainfo/all-about-apikey/blob/main/Development/Hunter.md",
+    "description": "API for domain search, professional email finder, author finder and email verifier",
+    "regex": "^([a-z0-9]{40})$"
+  },
+  {
+    "name": "IP2WHOIS API Key",
+    "url": "https://github.com/daffainfo/all-about-apikey/blob/main/Development/IP2WHOIS.md",
+    "description": "WHOIS domain name lookup",
+    "regex": "^([A-Z0-9]{32})$"
+  },
+  {
+    "name": "IPFind API Key",
+    "url": "https://github.com/daffainfo/all-about-apikey/blob/main/Development/IPFind.md",
+    "description": "Geographic location of an IP address or any domain name along with some other useful information",
+    "regex": "^([a-z0-9]{32})$"
+  },
+  {
+    "name": "JSONBin API Key",
+    "url": "https://github.com/daffainfo/all-about-apikey/blob/main/Development/JSONBin.md",
+    "description": "Free JSON storage service. Ideal for small scale Web apps, Websites and Mobile apps",
+    "regex": "^(\\$2b\\$10\\$[a-zA-Z0-9\/]{53})$"
+  },
+  {
+    "name": "MAC Address Lookup API Key",
+    "url": "https://github.com/daffainfo/all-about-apikey/blob/main/Development/MAC%20Address%20Lookup.md",
+    "description": "Retrieve vendor details and other information regarding a given MAC address or an OUI",
+    "regex": "^(at_[a-zA-Z0-9]{29})$"
+  },
+  {
+    "name": "Open Page Rank API Key",
+    "url": "https://github.com/daffainfo/all-about-apikey/blob/main/Development/Open%20Page%20Rank.md",
+    "description": "API for calculating and comparing metrics of different websites using Page Rank algorithms",
+    "regex": "^([gcswkso048]{40})$"
+  },
+  {
+    "name": "OpenAPIHub API Key",
+    "url": "https://github.com/daffainfo/all-about-apikey/blob/main/Development/OpenAPIHub.md",
+    "description": "The All-in-one API Platform",
+    "regex": "^([a-z0-9]{32})$"
+  },
+  {
+    "name": "OpenGraphr API Key",
+    "url": "https://github.com/daffainfo/all-about-apikey/blob/main/Development/OpenGraphr.md",
+    "description": "Really simple API to retrieve Open Graph data from an URL",
+    "regex": "^([a-zA-Z0-9]{80})$"
+  },
+  {
+    "name": "PageCDN API Key",
+    "url": "https://github.com/daffainfo/all-about-apikey/blob/main/Development/PageCDN.md",
+    "description": "Public API for javascript, css and font libraries on PageCDN",
+    "regex": "^([a-z0-9]{64})$"
+  },
+  {
+    "name": "ProxyCrawl API Key",
+    "url": "https://github.com/daffainfo/all-about-apikey/blob/main/Development/ProxyCrawl.md",
+    "description": "Scraping and crawling anticaptcha service",
+    "regex": "^([a-zA-Z0-9_]{22})$"
+  },
+  {
+    "name": "ProxyKingdom API Key",
+    "url": "https://github.com/daffainfo/all-about-apikey/blob/main/Development/ProxyKingdom.md",
+    "description": "Rotating Proxy API that produces a working proxy on every request",
+    "regex": "^([a-zA-Z0-9_]{22})$"
+  },
+  {
+    "name": "SavePage API Key",
+    "url": "https://github.com/daffainfo/all-about-apikey/blob/main/Development/SavePage.md",
+    "description": "A free, RESTful API used to screenshot any desktop, or mobile website",
+    "regex": "^([a-z0-9]{32})$"
+  },
+  {
+    "name": "ScraperAPI API Key",
+    "url": "https://github.com/daffainfo/all-about-apikey/blob/main/Development/ScraperAPI.md",
+    "description": "Easily build scalable web scrapers",
+    "regex": "^([a-z0-9]{32})$"
+  },
+  {
+    "name": "ScraperBox API Key",
+    "url": "https://github.com/daffainfo/all-about-apikey/blob/main/Development/ScraperBox.md",
+    "description": "Undetectable web scraping API",
+    "regex": "^([A-Z0-9]{32})$"
+  },
+  {
+    "name": "ScrapingAnt API Key",
+    "url": "https://github.com/daffainfo/all-about-apikey/blob/main/Development/ScrapingAnt.md",
+    "description": "Headless Chrome scraping with a simple API",
+    "regex": "^([a-z0-9]{32})$"
+  },
+  {
+    "name": "ScrapingDog API Key",
+    "url": "https://github.com/daffainfo/all-about-apikey/blob/main/Development/ScrapingDog.md",
+    "description": "Proxy API for Web scraping",
+    "regex": "^([a-z0-9]{24})$"
+  },
+  {
+    "name": "ScreenshotAPI API Key",
+    "url": "https://github.com/daffainfo/all-about-apikey/blob/main/Development/Screenshot%20API.md",
+    "description": "Create pixel-perfect website screenshots",
+    "regex": "^([A-Z0-9]{7}-[A-Z0-9]{7}-[A-Z0-9]{7}-[A-Z0-9]{7})$"
+  },
+  {
+    "name": "Supportivekoala API Key",
+    "url": "https://github.com/daffainfo/all-about-apikey/blob/main/Development/Supportivekoala.md",
+    "description": "Autogenerate images with template",
+    "regex": "^(^[A-Za-z0-9-_=]+\\.[A-Za-z0-9-_=]+\\.?[A-Za-z0-9-_.+/=]*$)$"
+  },
+  {
+    "name": "ZenRows API Key",
+    "url": "https://github.com/daffainfo/all-about-apikey/blob/main/Development/ZenRows.md",
+    "description": "Web Scraping API that bypasses anti-bot solutions while offering JS rendering, and rotating proxies",
+    "regex": "^([a-z0-9]{40})$"
+  },
+  {
+    "name": "host.io API Key",
+    "url": "https://github.com/daffainfo/all-about-apikey/blob/main/Development/host.io.md",
+    "description": "Domains Data API for Developers",
+    "regex": "^([a-z0-9]{14})$"
+  },
+  {
+    "name": "scrapestack API Key",
+    "url": "https://github.com/daffainfo/all-about-apikey/blob/main/Development/scrapestack.md",
+    "description": "Real-time, Scalable Proxy & Web Scraping REST API",
+    "regex": "^([a-z0-9]{32})$"
+  },
+  {
+    "name": "serpstack API Key",
+    "url": "https://github.com/daffainfo/all-about-apikey/blob/main/Development/serpstack.md",
+    "description": "Real-Time & Accurate Google Search Results API",
+    "regex": "^([a-z0-9]{32})$"
+  },
+  {
+    "name": "Wordnik API Key",
+    "url": "https://github.com/daffainfo/all-about-apikey/blob/main/Dictionaries/Wordnik.md",
+    "description": "Dictionary Data",
+    "regex": "^([a-z0-9]{49})$"
+  },
+  {
+    "name": "Airtable API Key",
+    "url": "https://github.com/daffainfo/all-about-apikey/blob/main/Documents%20%26%20Productivity/Airtable.md",
+    "description": "Integrate with Airtable",
+    "regex": "^(key[a-zA-Z0-9]{14})$"
+  },
+  {
+    "name": "Api2Convert API Key",
+    "url": "https://github.com/daffainfo/all-about-apikey/blob/main/Documents%20%26%20Productivity/Api2Convert.md",
+    "description": "Online File Conversion API",
+    "regex": "^([a-z0-9]{32})$"
   }
 ]
